@@ -7,7 +7,7 @@
  * @contact support@wikibyte.org
  *
  * Open Source on Github:
- * https://McCouman
+ * https://github.com/Wikiunity/
  *
  * No Supported!!!
  */
